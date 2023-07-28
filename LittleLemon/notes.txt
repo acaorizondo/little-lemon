@@ -1,0 +1,24 @@
+SUPERUSER
+user: admin
+password: 12345
+
+MANAGER GROUP
+user: manager1
+password: somepassword
+
+user: manager2
+password: somepassword
+
+DELIVERY CREW
+user: delivery1
+password: somepassword
+
+user: delivery2
+password: somepassword
+
+CUSTOMERS
+user: customer1
+password: somepassword
+
+user: customer2
+password: somepassword
